@@ -57,7 +57,7 @@ if($status==false){
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>書籍のアーカイブ</title>
-<link href="css/select_reg1.css" rel="stylesheet">
+<link href="css/select_reg.css" rel="stylesheet">
 <style>div{padding: 10px;font-size:16px;}</style>
 </head>
 <body>

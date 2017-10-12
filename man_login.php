@@ -23,7 +23,7 @@
 ID:<input type="text" name="lid" />
 PW:<input type="password" name="lpw" /><br>
 <input type="radio" name="kanri_flg" value="1">私は管理者です<br>
-<input type="submit" value="LOGIN" />
+<input type="submit" value="ログイン" />
 </form>
 </fieldset>
 </div>
