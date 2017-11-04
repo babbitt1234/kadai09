@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>書籍のアーカイブ</title>
-  <link href="css/index1.css" rel="stylesheet">
+  <link href="css/index.css" rel="stylesheet">
   <style>div{padding: 10px;font-size:16px;}</style>
 </head>
 <body>

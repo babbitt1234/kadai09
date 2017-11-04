@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<link href="css/login1.css" rel="stylesheet">
+<link href="css/login.css" rel="stylesheet">
 <style>div{padding: 10px;font-size:16px;}</style>
 <title>書籍のアーカイブ</title>
 </head>
